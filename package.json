@@ -1,0 +1,32 @@
+{
+  "name": "random-colours",
+  "version": "1.0.0",
+  "description": "Flat Color Palette - random web colours generator for background and foreground. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/girishvr/random-colours.git"
+  },
+  "keywords": [
+    "random",
+    "colours",
+    "random",
+    "colors",
+    "clours",
+    "flat",
+    "colours",
+    "background",
+    "foreground",
+    "view",
+    "text"
+  ],
+  "author": "Girish VR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/girishvr/random-colours/issues"
+  },
+  "homepage": "https://github.com/girishvr/random-colours#readme"
+}
