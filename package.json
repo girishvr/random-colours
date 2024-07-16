@@ -2,7 +2,7 @@
   "name": "random-colours",
   "version": "1.0.0",
   "description": "Flat Color Palette - random web colours generator for background and foreground. ",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,7 +23,7 @@
     "view",
     "text"
   ],
-  "author": "Girish VR",
+  "author": "Girish VR <girishvinr@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/girishvr/random-colours/issues"
