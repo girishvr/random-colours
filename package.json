@@ -1,6 +1,6 @@
 {
   "name": "random-colours",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Flat Color Palette - random web colours generator for background and foreground. ",
   "main": "src/index.js",
   "scripts": {
